@@ -33,6 +33,8 @@ https://harshavardhandarekar.github.io/simple-calculator/
 ```bash
 README.md
 index.html
+script.js
+style.css
 ```
 
 ## ✨ Notes
