@@ -31,8 +31,8 @@ It can perform simple arithmetic operations like addition, subtraction, multipli
 ## 📁 Project Structure
 
 ```bash
-index.html
 README.md
+index.html
 ```
 
 ## ✨ Notes
