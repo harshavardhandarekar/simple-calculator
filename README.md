@@ -26,7 +26,7 @@ It can perform simple arithmetic operations like addition, subtraction, multipli
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
+https://harshavardhandarekar.github.io/simple-calculator/
 
 ## 📁 Project Structure
 
