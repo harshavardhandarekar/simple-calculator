@@ -19,7 +19,7 @@ It can perform simple arithmetic operations like addition, subtraction, multipli
 
 ## 🚀 How to Use
 
-1. Open the calculator in your browser
+1. Open the calculator Live Demo link in your browser
 2. Click the buttons to enter numbers and operations
 3. Press `=` to get the result
 4. Use `C` to clear the screen
